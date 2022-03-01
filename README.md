@@ -60,6 +60,7 @@ This repository presents the design & simulation of NOR GATE using 'Synopsis Cus
 ![Screenshot (49)](https://user-images.githubusercontent.com/100508631/156128453-64cef67e-54e8-48cb-ba79-31c8c121aa8b.png)
 
 ### Netlist
+view netlist [here](https://github.com/riyajoshi1931/nor_gate/blob/main/netlist)
 
 ### Author
   Riya Manohar Joshi. 
