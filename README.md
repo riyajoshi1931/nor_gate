@@ -68,3 +68,6 @@ This repository presents the design & simulation of NOR GATE using 'Synopsis Cus
   [Cloud Based IC Design Hackathon](https://hackathoniith.in/)
   
   [IIT Hyderabad](https://iith.ac.in/)
+
+### References
+    Digital Design Book by M. Morris Mano, Michael D Ciletti, 4th Edition.
