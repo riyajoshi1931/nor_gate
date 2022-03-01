@@ -1,5 +1,5 @@
 # Implementation Of NOR GATE using CMOS
-This repository presents the design & simulation of NOR GATE using 'Synopsis Custom Compiler Tool' using 28nm technology
+This repository presents the design & simulation of NOR GATE using 'Synopsis Custom Compiler Tool' using 28nm technology.
 # Table Of Content
   [Abstract](#Abstract)
   [Circuit Details](#Circuit Details)
@@ -12,7 +12,9 @@ This repository presents the design & simulation of NOR GATE using 'Synopsis Cus
   
   ### Circuit Details
   For the design of any circuit with the CMOS technology; We need parallel or series connections of nMOS and pMOS with a nMOS source tied directly or indirectly to ground and   a pMOS source tied directly or indirectly to Vdd.
-  Truth Table Of NOR GATE
+  Truth Table Of NOR GATE-
+   ![Capture](https://user-images.githubusercontent.com/100508631/156124087-6f0713e1-2303-4140-9319-3fa667933560.PNG)
+
   
  
 ## Ref_ckt![ref_ckt](https://user-images.githubusercontent.com/100508631/156108235-38fd6d2f-4040-4bbe-89ca-4be23d39da20.png)
