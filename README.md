@@ -53,3 +53,12 @@ This repository presents the design & simulation of NOR GATE using 'Synopsis Cus
 
 
 ### Result
+![Screenshot (49)](https://user-images.githubusercontent.com/100508631/156128453-64cef67e-54e8-48cb-ba79-31c8c121aa8b.png)
+
+
+### Author
+  Riya Manohar Joshi
+  B.Tech in Electronics And Telecommunication Engineering at KIT's College Of Engineering, Kolhapur-416234
+  
+### Acknowledgements
+  [Kunal Ghosh, co-founder, VSD Corp.Pvt.Ltd.](https://in.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836)
