@@ -20,11 +20,13 @@ This repository presents the design & simulation of NOR GATE using 'Synopsis Cus
     Case-1 : A=0, B=0
         A=0: pMOS1 – ON; nMOS1 – OFF
         B=0: pMOS2 – ON; nMOS2 – OFF
-        Path establishes from Vdd to Vout through the series connected ON pMOS transistors and Vout gets charged to Vdd level. No path from Vout to GND. Therefore, no             discharging and hence Vout will be High.
+        Path establishes from Vdd to Vout through the series connected ON pMOS transistors and Vout gets charged to Vdd level. No path from Vout to GND. 
+        Therefore, no  discharging and hence Vout will be High.
     Case-2 : A=0, B=1
         A=0: pMOS1 – ON; nMOS1 – OFF
         B=1: pMOS2 – OFF; nMOS2 – ON
-        In this case path establishes from Vout to GND through nMOS2, but no path to Vdd. So, Vout would get discharged and will be at level Low.
+        In this case path establishes from Vout to GND through nMOS2, but no path to Vdd. 
+        So, Vout would get discharged and will be at level Low.
     Case-3 : A=1, B=0
         A=1: pMOS1 – OFF; nMOS1 – ON
         B=0: pMOS2 – ON; nMOS2 – OFF
