@@ -50,7 +50,9 @@ This repository presents the design & simulation of NOR GATE using 'Synopsis Cus
 ### Ref_ckt_Design![ref_ckt](https://user-images.githubusercontent.com/100508631/156108235-38fd6d2f-4040-4bbe-89ca-4be23d39da20.png)
 ### Ref_Waveform![ref_waveform](https://user-images.githubusercontent.com/100508631/156119145-b424b992-1f3e-48ea-bcea-009e34241a10.png)
 
-### Synopsis_Schematic
+### Synopsis_Schematic![Schematic](https://user-images.githubusercontent.com/100508631/156149103-6a52134c-5879-4827-936b-1df6b91c91ff.PNG)
+
+### Symbol
 
 ### Result
 ![Screenshot (49)](https://user-images.githubusercontent.com/100508631/156128453-64cef67e-54e8-48cb-ba79-31c8c121aa8b.png)
