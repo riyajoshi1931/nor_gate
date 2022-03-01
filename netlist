@@ -1,3 +1,9 @@
+*  Generated for: PrimeSim
+*  Design library name: nor
+*  Design cell name: nor_TB
+*  Design view name: schematic
+.lib '/PDK/SAED_PDK32nm/hspice/saed32nm.lib' TT
+
 *Custom Compiler Version S-2021.09
 *Tue Mar  1 09:28:19 2022
 
@@ -28,3 +34,32 @@ v3 net16 gnd! dc=1.05
 v8 in2 gnd! dc=0 pulse ( 0 1.05 1u 0.1u 0.1u 5u 10u )
 v7 in1 gnd! dc=0 pulse ( 0 1.05 0 0.1u 0.1u 5u 10u )
 c9 out gnd! c=1p
+
+
+
+
+
+
+
+
+.tran '1u' '20u' name=tran
+
+.option primesim_remove_probe_prefix = 0
+.probe v(*) i(*) level=1
+.probe tran v(in1) v(in2) v(out)
+
+.temp 25
+
+
+
+.option primesim_output=wdf
+
+
+.option parhier = LOCAL
+
+
+
+
+
+
+.end
