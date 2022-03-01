@@ -3,6 +3,15 @@ This repository presents the design & simulation of NOR GATE using 'Synopsis Cus
 # Table Of Content
   1. [Abstract](#Abstract)
   2.  [Circuit_Details](#Circuit_Details)
+  3.  [Ref_Circuit_Design](#Ref_Circuit_Design)
+  4.  [Ref_Waveform](#Ref_Waveform)
+  5.  [Synopsis_Schematic](#Synopsis_Schematic)
+  6.  [Symbol](#Symbol)
+  7.  [Result](#Result)
+  8.  [Netlist](#Netlist)
+  9.  [Author](#Author)
+  10.  [Acknowedgments](#Acknowledgements)
+  11.  [References](#References)
 
   
   
@@ -38,8 +47,9 @@ This repository presents the design & simulation of NOR GATE using 'Synopsis Cus
         B=1: pMOS2 – OFF; nMOS2 – ON
         No path to Vdd. Path establishes from Vout to GND. So, Vout will be at level Low.
 
+### Ref_ckt_Design![ref_ckt](https://user-images.githubusercontent.com/100508631/156108235-38fd6d2f-4040-4bbe-89ca-4be23d39da20.png)
+### Ref_Waveform![ref_waveform](https://user-images.githubusercontent.com/100508631/156119145-b424b992-1f3e-48ea-bcea-009e34241a10.png)
 
-  
- 
-## Ref_ckt![ref_ckt](https://user-images.githubusercontent.com/100508631/156108235-38fd6d2f-4040-4bbe-89ca-4be23d39da20.png)
-## Ref_Waveform![ref_waveform](https://user-images.githubusercontent.com/100508631/156119145-b424b992-1f3e-48ea-bcea-009e34241a10.png)
+
+
+### Result
