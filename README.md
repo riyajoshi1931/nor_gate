@@ -52,7 +52,8 @@ This repository presents the design & simulation of NOR GATE using 'Synopsis Cus
 
 ### Synopsis_Schematic![Schematic](https://user-images.githubusercontent.com/100508631/156149103-6a52134c-5879-4827-936b-1df6b91c91ff.PNG)
 
-### Symbol![symbol_NOR](https://user-images.githubusercontent.com/100508631/156149444-b096fc28-499c-4bf4-8917-f9751472bcf8.PNG)
+### Symbol 
+![symbol_NOR](https://user-images.githubusercontent.com/100508631/156149444-b096fc28-499c-4bf4-8917-f9751472bcf8.PNG)
 
 
 ### Result
