@@ -2,7 +2,7 @@
 This repository presents the design & simulation of NOR GATE using 'Synopsis Custom Compiler Tool' using 28nm technology.
 # Table Of Content
   [Abstract](#Abstract)
-  [Circuit Details](#Circuit Details)
+  [Circuit_Details](#Circuit_Details)
   
   
   
@@ -10,9 +10,9 @@ This repository presents the design & simulation of NOR GATE using 'Synopsis Cus
   ### Abstract
   NOR GATE is a universal Logic gate. It can be used to build all other gates, also the complex circuits with higher number of transistor. A logic gate is physical design       that implements Boolean function. They are the building block of the high performance circuits. Its implementation is done using Synopsis Custom Design Tool. Here I am       using CMOS Technology because temperature stability, stronger anti-noise ability and lower power consumption.
   
-  ### Circuit Details
+  ### Circuit_Details
   For the design of any circuit with the CMOS technology; We need parallel or series connections of nMOS and pMOS with a nMOS source tied directly or indirectly to ground and   a pMOS source tied directly or indirectly to Vdd.
-  Truth Table Of NOR GATE-
+   Truth Table Of NOR GATE-
    ![Capture](https://user-images.githubusercontent.com/100508631/156124087-6f0713e1-2303-4140-9319-3fa667933560.PNG)
 
   
