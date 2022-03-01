@@ -62,6 +62,9 @@ This repository presents the design & simulation of NOR GATE using 'Synopsis Cus
   
 ### Acknowledgements
   [Kunal Ghosh, co-founder, VSD Corp.Pvt.Ltd.](https://in.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836)
+  
   [Synopsys India](https://www.synopsys.com/)
+  
   [Cloud Based IC Design Hackathon](https://hackathoniith.in/)
+  
   [IIT Hyderabad](https://iith.ac.in/)
