@@ -14,7 +14,9 @@ This repository presents the design & simulation of NOR GATE using 'Synopsis Cus
   ### Circuit_Details
   For the design of any circuit with the CMOS technology; We need parallel or series connections of nMOS and pMOS with a nMOS source tied directly or indirectly to ground and   a pMOS source tied directly or indirectly to Vdd.
    Truth Table Of NOR GATE-
+   
    ![Capture](https://user-images.githubusercontent.com/100508631/156124087-6f0713e1-2303-4140-9319-3fa667933560.PNG)
+   
     Case-1 : A=0, B=0
         A=0: pMOS1 – ON; nMOS1 – OFF
         B=0: pMOS2 – ON; nMOS2 – OFF
