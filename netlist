@@ -1,0 +1,30 @@
+*Custom Compiler Version S-2021.09
+*Tue Mar  1 09:28:19 2022
+
+.global gnd!
+********************************************************************************
+* Library          : nor
+* Cell             : nor
+* View             : schematic
+* View Search List : hspice hspiceD schematic spice veriloga
+* View Stop List   : hspice hspiceD
+********************************************************************************
+.subckt nor in1 in2 out vdd vss
+xm1 out in2 net5 vdd p105 w=0.1u l=0.03u nf=1 m=1
+xm0 net5 in1 vdd vdd p105 w=0.1u l=0.03u nf=1 m=1
+xm3 out in2 vss vss n105 w=0.1u l=0.03u nf=1 m=1
+xm2 out in1 vss vss n105 w=0.1u l=0.03u nf=1 m=1
+.ends nor
+
+********************************************************************************
+* Library          : nor
+* Cell             : nor_TB
+* View             : schematic
+* View Search List : hspice hspiceD schematic spice veriloga
+* View Stop List   : hspice hspiceD
+********************************************************************************
+xi2 in1 in2 out net16 gnd! nor
+v3 net16 gnd! dc=1.05
+v8 in2 gnd! dc=0 pulse ( 0 1.05 1u 0.1u 0.1u 5u 10u )
+v7 in1 gnd! dc=0 pulse ( 0 1.05 0 0.1u 0.1u 5u 10u )
+c9 out gnd! c=1p
